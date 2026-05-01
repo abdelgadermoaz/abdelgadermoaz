@@ -170,7 +170,7 @@ Currently focused on:
 <img src="https://raw.githubusercontent.com/abdelgadermoaz/abdelgadermoaz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
----
+
 
 ## 🌐 Connect With Me
 
@@ -179,7 +179,7 @@ Currently focused on:
 <a href="https://abdelgadermoaz.github.io">
   <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/moaz-alnor">
+<a href="[https://www.linkedin.com/in/moaz-alnor](https://www.linkedin.com/in/moaz-abdelgader-alnor-422676192/)">
   <img src="https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0007-1851-5853">
