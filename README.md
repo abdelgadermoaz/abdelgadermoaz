@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Moaz Abdelgader Alnor
@@ -67,9 +66,7 @@ Currently open to:
 
 Full-stack stock and sales management ERP with role-based access.
 
-```txt
-TypeScript • ERP • Stock Management • Sales Management
-````
+**Tech:** TypeScript • ERP • Stock Management • Sales Management
 
 [View Repository](https://github.com/abdelgadermoaz/Kgl_System)
 
@@ -79,9 +76,7 @@ TypeScript • ERP • Stock Management • Sales Management
 
 A high-performance, cross-platform security vault using a C++ cryptography engine wrapped in a modern Python desktop UI.
 
-```txt
-Python • C++ • Security • Cryptography • Desktop App
-```
+**Tech:** Python • C++ • Security • Cryptography • Desktop App
 
 [View Repository](https://github.com/abdelgadermoaz/ShiftX)
 
@@ -91,9 +86,7 @@ Python • C++ • Security • Cryptography • Desktop App
 
 A Python project focused on projectile motion and engineering simulation.
 
-```txt
-Python • Physics • Simulation • Engineering
-```
+**Tech:** Python • Physics • Simulation • Engineering
 
 [View Repository](https://github.com/abdelgadermoaz/oblique-projectile-water)
 
@@ -103,9 +96,7 @@ Python • Physics • Simulation • Engineering
 
 A simple web-based resistor calculator.
 
-```txt
-HTML • Electronics • Calculator
-```
+**Tech:** HTML • Electronics • Calculator
 
 [View Repository](https://github.com/abdelgadermoaz/resistor-calculator)
 
@@ -115,9 +106,7 @@ HTML • Electronics • Calculator
 
 A C++ terminal game project.
 
-```txt
-C++ • Game Logic • Console App
-```
+**Tech:** C++ • Game Logic • Console App
 
 [View Repository](https://github.com/abdelgadermoaz/Tic-Tac-Toe)
 
@@ -147,13 +136,11 @@ C++ • Game Logic • Console App
 
 ## Current Focus
 
-```txt
-Learning ROS 2
-Improving C++ and Python
-Building robotics projects
-Creating full-stack systems
-Developing a strong engineering portfolio
-```
+- Learning ROS 2
+- Improving C++ and Python
+- Building robotics projects
+- Creating full-stack systems
+- Developing a strong engineering portfolio
 
 ---
 
@@ -162,9 +149,9 @@ Developing a strong engineering portfolio
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdelgadermoaz.github.io-6A5ACD?style=for-the-badge)](https://abdelgadermoaz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/moaz-alnor)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0007-1851-5853)
-[![GitHub](https://img.shields.io/badge/GitHub-abdelgadermoaz-181717?style=for-the-badge\&logo=github)](https://github.com/abdelgadermoaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moaz-alnor)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1851-5853)
+[![GitHub](https://img.shields.io/badge/GitHub-abdelgadermoaz-181717?style=for-the-badge&logo=github)](https://github.com/abdelgadermoaz)
 
 </div>
 
@@ -175,5 +162,3 @@ Developing a strong engineering portfolio
 ### Robotics. Software. Mechanical Design. Build useful things.
 
 </div>
-```
-
