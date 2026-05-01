@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Robotics and coding GIF" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
 I am a **Robotics & Mechanical Engineer** interested in building practical systems that combine mechanical design, robotics, automation, and software.
 
@@ -74,8 +74,8 @@ Currently focused on:
       <h3>Kgl_System</h3>
       <p>Full-stack Stock & Sales Management ERP with role-based access.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/ERP-7C3AED?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/ERP-7C3AED?style=for-the-badge" alt="ERP" />
       </p>
       <a href="https://github.com/abdelgadermoaz/Kgl_System">View Repository</a>
     </td>
@@ -83,8 +83,8 @@ Currently focused on:
       <h3>ShiftX</h3>
       <p>Cross-platform security vault with a C++ cryptography engine and Python desktop UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
       </p>
       <a href="https://github.com/abdelgadermoaz/ShiftX">View Repository</a>
     </td>
@@ -94,8 +94,8 @@ Currently focused on:
       <h3>Oblique Projectile Water</h3>
       <p>Python project focused on projectile motion and engineering simulation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Simulation-0F766E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Simulation-0F766E?style=for-the-badge" alt="Simulation" />
       </p>
       <a href="https://github.com/abdelgadermoaz/oblique-projectile-water">View Repository</a>
     </td>
@@ -103,8 +103,8 @@ Currently focused on:
       <h3>Resistor Calculator</h3>
       <p>Simple web app for calculating resistor values and electronics formulas.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Electronics-222222?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/Electronics-222222?style=for-the-badge" alt="Electronics" />
       </p>
       <a href="https://github.com/abdelgadermoaz/resistor-calculator">View Repository</a>
     </td>
@@ -114,8 +114,8 @@ Currently focused on:
       <h3>Tic-Tac-Toe</h3>
       <p>C++ terminal-based Tic-Tac-Toe game with basic game logic.</p>
       <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Game%20Logic-111827?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Game%20Logic-111827?style=for-the-badge" alt="Game Logic" />
       </p>
       <a href="https://github.com/abdelgadermoaz/Tic-Tac-Toe">View Repository</a>
     </td>
@@ -123,8 +123,8 @@ Currently focused on:
       <h3>More Projects</h3>
       <p>More robotics, engineering, software, and learning projects are coming soon.</p>
       <p>
-        <img src="https://img.shields.io/badge/Robotics-7C3AED?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Engineering-0F766E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Robotics-7C3AED?style=for-the-badge" alt="Robotics" />
+        <img src="https://img.shields.io/badge/Engineering-0F766E?style=for-the-badge" alt="Engineering" />
       </p>
       <a href="https://github.com/abdelgadermoaz?tab=repositories">View All Repositories</a>
     </td>
@@ -137,15 +137,7 @@ Currently focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelgadermoaz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-
-<br/><br/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=abdelgadermoaz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelgadermoaz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages" />
 
 </div>
 
@@ -171,31 +163,21 @@ Currently focused on:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdelgadermoaz/abdelgadermoaz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://abdelgadermoaz.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/moaz-alnor">
-  <img src="https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0007-1851-5853">
-  <img src="https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
 </a>
 <a href="https://github.com/abdelgadermoaz">
-  <img src="https://img.shields.io/badge/GitHub-abdelgadermoaz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-abdelgadermoaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
