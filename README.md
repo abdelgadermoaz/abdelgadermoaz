@@ -1,132 +1,93 @@
 <div align="center">
 
-# Moaz Abdelgader Alnor
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Moaz%20Abdelgader%20Alnor&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20Mechanical%20Engineering%20%7C%20Software&descAlignY=58" width="100%" />
+
+# Hi, I'm Moaz Abdelgader Alnor 👋
 
 ### Robotics & Mechanical Engineer 🤖  
 ### ROS 2 • C++ • Python • SolidWorks • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=700&lines=Building+robots;Designing+mechanical+systems;Writing+Python+and+C%2B%2B;Developing+full-stack+systems;Open+to+collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+robots;Designing+mechanical+systems;Writing+Python+and+C%2B%2B;Developing+engineering+projects;Open+to+collaboration" alt="Typing animation" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdelgadermoaz&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/abdelgadermoaz?style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/stars/abdelgadermoaz?style=for-the-badge&color=f59e0b&labelColor=0d1117" alt="stars" />
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a **Robotics & Mechanical Engineer** interested in building practical systems that combine mechanical design, programming, automation, and robotics.
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VwMzltN29ja2VqZXJqMXQ1b2VxMW96d3V0ZGI1YnB0bG1iNG1mNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" />
 
-I work with:
+I am a **Robotics & Mechanical Engineer** interested in building practical systems that combine:
 
-- Robotics and ROS 2
+- Robotics and automation
+- ROS 2 development
 - C++ and Python
 - Mechanical design with SolidWorks
-- Full-stack systems
-- Engineering simulation and automation
-- Project-based learning and open-source work
+- Simulation and engineering problem-solving
+- Software systems and full-stack development
 
-Currently open to:
-
-- Full-time roles
-- Freelance gigs
-- Robotics projects
-- Mechanical design projects
-- Software and engineering collaborations
+### I’m currently focused on:
+- Learning and building with **ROS 2**
+- Improving my **C++** and **Python**
+- Developing **robotics projects**
+- Creating a stronger **engineering portfolio**
+- Working on useful real-world projects
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### Robotics & Engineering
-
-![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2211C?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Mechanical Design](https://img.shields.io/badge/Mechanical%20Design-222222?style=for-the-badge)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Web & Tools
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,html,git,github,linux" />
+<br/><br/>
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/SolidWorks-E2211C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+<img src="https://img.shields.io/badge/Mechanical%20Design-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Engineering%20Simulation-0F766E?style=for-the-badge" />
 
 </div>
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### Kgl_System
+<div align="center">
 
-Full-stack stock and sales management ERP with role-based access.
+<a href="https://github.com/abdelgadermoaz/Kgl_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelgadermoaz&repo=Kgl_System&theme=tokyonight&hide_border=true" />
+</a>
 
-**Tech:** TypeScript • ERP • Stock Management • Sales Management
+<a href="https://github.com/abdelgadermoaz/ShiftX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelgadermoaz&repo=ShiftX&theme=tokyonight&hide_border=true" />
+</a>
 
-[View Repository](https://github.com/abdelgadermoaz/Kgl_System)
+<a href="https://github.com/abdelgadermoaz/oblique-projectile-water">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelgadermoaz&repo=oblique-projectile-water&theme=tokyonight&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/abdelgadermoaz/resistor-calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelgadermoaz&repo=resistor-calculator&theme=tokyonight&hide_border=true" />
+</a>
 
-### ShiftX
-
-A high-performance, cross-platform security vault using a C++ cryptography engine wrapped in a modern Python desktop UI.
-
-**Tech:** Python • C++ • Security • Cryptography • Desktop App
-
-[View Repository](https://github.com/abdelgadermoaz/ShiftX)
-
----
-
-### Oblique Projectile Water
-
-A Python project focused on projectile motion and engineering simulation.
-
-**Tech:** Python • Physics • Simulation • Engineering
-
-[View Repository](https://github.com/abdelgadermoaz/oblique-projectile-water)
+</div>
 
 ---
 
-### Resistor Calculator
-
-A simple web-based resistor calculator.
-
-**Tech:** HTML • Electronics • Calculator
-
-[View Repository](https://github.com/abdelgadermoaz/resistor-calculator)
-
----
-
-### Tic-Tac-Toe
-
-A C++ terminal game project.
-
-**Tech:** C++ • Game Logic • Console App
-
-[View Repository](https://github.com/abdelgadermoaz/Tic-Tac-Toe)
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelgadermoaz&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelgadermoaz&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-## Most Used Languages
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelgadermoaz&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -134,24 +95,52 @@ A C++ terminal game project.
 
 ---
 
-## Current Focus
-
-- Learning ROS 2
-- Improving C++ and Python
-- Building robotics projects
-- Creating full-stack systems
-- Developing a strong engineering portfolio
-
----
-
-## Connect
+## 🏆 Achievements
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdelgadermoaz.github.io-6A5ACD?style=for-the-badge)](https://abdelgadermoaz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moaz-alnor)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1851-5853)
-[![GitHub](https://img.shields.io/badge/GitHub-abdelgadermoaz-181717?style=for-the-badge&logo=github)](https://github.com/abdelgadermoaz)
+<img src="https://github-profile-trophy.vercel.app/?username=abdelgadermoaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelgadermoaz&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/abdelgadermoaz/abdelgadermoaz/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://abdelgadermoaz.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/moaz-alnor">
+  <img src="https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://orcid.org/0009-0007-1851-5853">
+  <img src="https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+<a href="https://github.com/abdelgadermoaz">
+  <img src="https://img.shields.io/badge/GitHub-abdelgadermoaz-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -159,6 +148,6 @@ A C++ terminal game project.
 
 <div align="center">
 
-### Robotics. Software. Mechanical Design. Build useful things.
+### 🤖 Robotics. Software. Mechanical Design. Build useful things.
 
 </div>
