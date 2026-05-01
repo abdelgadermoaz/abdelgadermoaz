@@ -176,11 +176,11 @@ Currently focused on:
 
 <div align="center">
 
-<a href="https://abdelgadermoaz.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Website-7c3aed?style=for-the-badge" alt="Portfolio" />
+<a href="https://moazalnor.me">
+  <img src="https://img.shields.io/badge/Portfolio-moazalnor.me-7c3aed?style=for-the-badge" alt="Portfolio" />
 </a>
-<a href="[https://www.linkedin.com/in/moaz-alnor](https://www.linkedin.com/in/moaz-abdelgader-alnor-422676192/)">
-  <img src="https://img.shields.io/badge/LinkedIn-moaz--alnor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/moaz-abdelgader-alnor-422676192/">
+  <img src="https://img.shields.io/badge/LinkedIn-Moaz%20Abdelgader%20Alnor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0007-1851-5853">
   <img src="https://img.shields.io/badge/ORCID-0009--0007--1851--5853-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
