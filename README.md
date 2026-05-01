@@ -163,6 +163,14 @@ Currently focused on:
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abdelgadermoaz/abdelgadermoaz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+---
 ## 🌐 Connect With Me
 
 <div align="center">
