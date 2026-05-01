@@ -171,6 +171,7 @@ Currently focused on:
 
 </div>
 ---
+
 ## 🌐 Connect With Me
 
 <div align="center">
